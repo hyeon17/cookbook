@@ -9,7 +9,5 @@
 # cf. https://github.com/Giom-V/gemini-api-cookbook/blob/main/.github/workflows/sync.yml
 .github/workflows/sync.yml
 
-# Ignore Python scripts created at root level by antigravity
-/*.py
 .env
 .omc
