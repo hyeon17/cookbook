@@ -11,3 +11,5 @@
 
 # Ignore Python scripts created at root level by antigravity
 /*.py
+.env
+.omc
